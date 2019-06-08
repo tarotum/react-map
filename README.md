@@ -8,4 +8,3 @@ You need to create .env file in the root folder and add Google Maps JavaScript A
 
 1. `yarn start` - run in development mode
 2. `yarn build` - build project for production
-3. `yarn serve` - run static-server
